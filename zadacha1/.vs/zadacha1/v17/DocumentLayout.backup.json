@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Proging\\Netology\\Module2\\DZ1\\zadacha1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7CAD128-9E58-43CF-8E6B-CC26E71C6770}|zadacha1.vcxproj|C:\\Users\\User\\Desktop\\Proging\\Netology\\Module2\\DZ1\\zadacha1\\zadacha3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7CAD128-9E58-43CF-8E6B-CC26E71C6770}|zadacha1.vcxproj|solutionrelative:zadacha3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E7CAD128-9E58-43CF-8E6B-CC26E71C6770}|zadacha1.vcxproj|C:\\Users\\User\\Desktop\\Proging\\Netology\\Module2\\DZ1\\zadacha1\\zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7CAD128-9E58-43CF-8E6B-CC26E71C6770}|zadacha1.vcxproj|solutionrelative:zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "zadacha3.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proging\\Netology\\Module2\\DZ1\\zadacha1\\zadacha3.cpp",
-              "RelativeDocumentMoniker": "zadacha3.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Proging\\Netology\\Module2\\DZ1\\zadacha1\\zadacha3.cpp*",
-              "RelativeToolTip": "zadacha3.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "zadacha1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proging\\Netology\\Module2\\DZ1\\zadacha1\\zadacha1.cpp",
+              "RelativeDocumentMoniker": "zadacha1.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proging\\Netology\\Module2\\DZ1\\zadacha1\\zadacha1.cpp",
+              "RelativeToolTip": "zadacha1.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwv0EAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-28T12:26:19.036Z",
+              "WhenOpened": "2025-03-03T06:50:49.235Z",
               "EditorCaption": ""
             }
           ]
