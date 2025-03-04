@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <string>
 
-enum Months{завершение, январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь, декабрь };
+enum Months{ january = 1, february, march, april, may, june, july, august, september, october, november, december };
 
 int main()
 {
@@ -12,49 +12,47 @@ int main()
     std::cin >> userInput;
     Months month{ static_cast<Months>(userInput) };
 
-    if (month != Months::завершение)
+    if (month != 0)
     {
-        while (userInput != Months::завершение)
+        while (userInput != 0)
         {
             switch (userInput)
             {
-            case Months::январь:
+            case Months::january:
                 std::cout << "Январь." << std::endl;
                 break;
-            case Months::февраль:
+            case Months::february:
                 std::cout << "Февраль." << std::endl;
                 break;
-            case Months::март:
+            case Months::march:
                 std::cout << "Март." << std::endl;
                 break;
-            case Months::апрель:
+            case Months::april:
                 std::cout << "Апрель." << std::endl;
                 break;
-            case Months::май:
+            case Months::may:
                 std::cout << "Май." << std::endl;
                 break;
-            case Months::июнь:
+            case Months::june:
                 std::cout << "Июнь." << std::endl;
                 break;
-            case Months::июль:
+            case Months::july:
                 std::cout << "Июль." << std::endl;
                 break;
-            case Months::август:
+            case Months::august:
                 std::cout << "Август." << std::endl;
                 break;
-            case Months::сентябрь:
+            case Months::september:
                 std::cout << "Сентябрь." << std::endl;
                 break;
-            case Months::октябрь:
+            case Months::october:
                 std::cout << "Октябрь." << std::endl;
                 break;
-            case Months::ноябрь:
+            case Months::november:
                 std::cout << "Ноябрь." << std::endl;
                 break;
-            case Months::декабрь:
+            case Months::december:
                 std::cout << "Декабрь." << std::endl;
-                break;
-            case Months::завершение:
                 break;
             default:
                 std::cout << "Неправильный номер!" << std::endl;
