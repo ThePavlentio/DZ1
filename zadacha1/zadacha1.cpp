@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <string>
 
-enum Months{ january = 1, february, march, april, may, june, july, august, september, october, november, december };
+enum Months { january = 1, february, march, april, may, june, july, august, september, october, november, december };
 
 int main()
 {
@@ -10,12 +10,13 @@ int main()
     int userInput{};
     std::cout << "Введите номер месяца: ";
     std::cin >> userInput;
-    Months month{ static_cast<Months>(userInput) };
 
-    if (month != 0)
+    if (userInput != 0)
     {
         while (userInput != 0)
         {
+            Months month{ static_cast<Months>(userInput) };
+
             switch (month)
             {
             case Months::january:
@@ -64,7 +65,7 @@ int main()
     }
 
     std::cout << "До свидания!" << std::endl;
-    
+
     return 0;
 }
 
