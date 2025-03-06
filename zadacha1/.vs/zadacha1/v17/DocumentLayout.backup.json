@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Proging\\Netology\\Module2\\DZ1\\zadacha1\\",
+  "WorkspaceRootPath": "C:\\Users\\PavlentOs\\Desktop\\Netology\\Module2\\DZ1\\zadacha1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7CAD128-9E58-43CF-8E6B-CC26E71C6770}|zadacha1.vcxproj|C:\\Users\\User\\Desktop\\Proging\\Netology\\Module2\\DZ1\\zadacha1\\zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E7CAD128-9E58-43CF-8E6B-CC26E71C6770}|zadacha1.vcxproj|C:\\Users\\PavlentOs\\Desktop\\Netology\\Module2\\DZ1\\zadacha1\\zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E7CAD128-9E58-43CF-8E6B-CC26E71C6770}|zadacha1.vcxproj|solutionrelative:zadacha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,14 +20,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "zadacha1.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proging\\Netology\\Module2\\DZ1\\zadacha1\\zadacha1.cpp",
+              "DocumentMoniker": "C:\\Users\\PavlentOs\\Desktop\\Netology\\Module2\\DZ1\\zadacha1\\zadacha1.cpp",
               "RelativeDocumentMoniker": "zadacha1.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Proging\\Netology\\Module2\\DZ1\\zadacha1\\zadacha1.cpp*",
-              "RelativeToolTip": "zadacha1.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PavlentOs\\Desktop\\Netology\\Module2\\DZ1\\zadacha1\\zadacha1.cpp",
+              "RelativeToolTip": "zadacha1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-03T06:50:49.235Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

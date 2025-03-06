@@ -16,7 +16,7 @@ int main()
     {
         while (userInput != 0)
         {
-            switch (userInput)
+            switch (month)
             {
             case Months::january:
                 std::cout << "Январь." << std::endl;
